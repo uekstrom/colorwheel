@@ -16,4 +16,4 @@ A happy by-product of the procedure was that the final color map strongly resemb
 <img src="wheel7.png" width="200">  
 Figure: Seven uniformly spaces samples from "Wheel".  
 The six color version shown in the first figure has too much purple in the blue. It's not possible to correct this defect without violating preceptual uniformity.  
-The Weel color map was developed by Ulf Ekström 2025.
+The Weel color map was developed by Ulf Ekström <uekstrom@gmail.com> 2025.
